@@ -1,0 +1,9 @@
+.fondo{
+    background-image: url(../Img/23_copy_300x.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.color{
+    color: white;
+}
